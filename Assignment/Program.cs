@@ -84,6 +84,18 @@
             // Answer b) No, all members are implicitly public
 
             #endregion
+
+            #region Question 8
+            //What is the purpose of an explicit interface implementation in C#?
+
+            //a) To hide the interface members from outside access
+            //b) To provide a clear separation between interface and class members
+            //c) To allow multiple classes to implement the same interface
+            //d) To speed up method resolution
+
+            // Answer => b) To provide a clear separation between interface and class members
+
+            #endregion
         }
     }
 }
