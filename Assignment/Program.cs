@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            #region Part 1
             #region Question 1
             //What is the primary purpose of an interface in C#?
 
@@ -107,6 +108,18 @@
 
             // Answer => d) Only if the constructor is static
 
+            #endregion
+
+            #region Question 10
+            //How can a C# class implement multiple interfaces?
+
+            //a) By using the "implements" keyword
+            //b) By using the "extends" keyword
+            //c) By separating interface names with commas
+            //d) A class cannot implement multiple interfaces
+
+            // Answer => d) A class cannot implement multiple interfaces
+            #endregion 
             #endregion
         }
     }
