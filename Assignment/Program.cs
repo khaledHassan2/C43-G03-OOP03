@@ -72,6 +72,18 @@
 
             // Answer a) Yes
             #endregion
+
+            #region Question 7
+            //In C#, can an interface have explicit access modifiers for its members?
+
+            //a) Yes, for all members
+            //b) No, all members are implicitly public
+            //c) Yes, but only for abstract members
+            //d) Only if the interface is sealed
+
+            // Answer b) No, all members are implicitly public
+
+            #endregion
         }
     }
 }
