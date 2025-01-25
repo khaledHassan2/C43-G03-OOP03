@@ -119,7 +119,17 @@
             //d) A class cannot implement multiple interfaces
 
             // Answer => d) A class cannot implement multiple interfaces
-            #endregion 
+            #endregion
+            #endregion
+
+            #region Part 2
+            #region Question 01:
+            //Circle ci = new Circle(10);
+            //ci.DisplayShapeInfo();
+
+            //Rectangle rec = new Rectangle(5, 15);
+            //rec.DisplayShapeInfo();
+            #endregion
             #endregion
         }
     }
